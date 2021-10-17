@@ -60,7 +60,7 @@ if love == "yes" or love == "YES" or love == "1" or love == "y":
            ding.play()
 
 elif love == "no" or love == "NO" or love == "2" or love == "n":
-           for x in range(1,999999,1): time.sleep(0.5);print();print(Fore.RED + "FUCK YOU");stop.play()
+           for x in range(1,999999,1): time.sleep(0.5554);print();print(Fore.RED + "FUCK YOU");stop.play()
 
 else:
            print(Fore.YELLOW + "RETRY,VEGETABLE!")
