@@ -25,9 +25,9 @@ print(Fore.YELLOW + "============================ABOUT==========================
 ver=str("v0.2.2");author=str("sn")
 intro=str("SOPHON=GOD! I'll FUCK anyone who doesn't like Sophon")
 print(Fore.RED + "LOVE SOPHON",ver,Fore.GREEN + ".stable")
-time.sleep(0.2)
+time.sleep(0.2777)
 print(Fore.GREEN + "author:",author)
-time.sleep(0.2)
+time.sleep(0.2777)
 exc.play()
 print(Fore.RED + intro)
 print()
@@ -40,22 +40,22 @@ print("3.COLOUR ADDED")
 print()
 
 #PAUSE
-time.sleep(2)
+time.sleep(2.2216)
 
 #START
 line=str(Fore.GREEN + "===========================START!===================================")
 ding.play()
 print(line)
-time.sleep(1)
+time.sleep(1.1108)
 print()
 print(Fore.GREEN + "Do you",Fore.RED + "love Sophon? ")
-time.sleep(1)
+time.sleep(1.1108)
 love=str(input("Input:"))
 
 if love == "yes" or love == "YES" or love == "1" or love == "y":
            print(Fore.GREEN + "GREAT")
            ding.play()
-           time.sleep(0.5)
+           time.sleep(0.5554)
            print(Fore.GREEN + "GOD SOPHON!!")
            ding.play()
 
@@ -65,7 +65,7 @@ elif love == "no" or love == "NO" or love == "2" or love == "n":
 else:
            print(Fore.YELLOW + "RETRY,VEGETABLE!")
            exc.play()
-           time.sleep(1)
+           time.sleep(1.1108)
            print(Fore.YELLOW + "Input yes!!!")
            print(Fore.YELLOW + intro)
 
@@ -75,7 +75,7 @@ input("PRESS ENTER TO EXIT")
 if love == "yes" or love == "YES" or love == "1" or love == "y":
            print(Fore.GREEN + "BYE!")
            ding.play()
-           time.sleep(0.5)
+           time.sleep(0.5554)
            
 elif love == "no" or love == "NO" or love == "2" or love == "n":
            print(Fore.RED + "SHIT!!")
@@ -85,7 +85,7 @@ else:
            print(Fore.YELLOW + "NOOB!!")
            ding.play()
            
-time.sleep(1.3)
+time.sleep(1.1108)
 shutdown.play()
-time.sleep(0.8)
+time.sleep(0.5554)
 mixer.music.stop()
